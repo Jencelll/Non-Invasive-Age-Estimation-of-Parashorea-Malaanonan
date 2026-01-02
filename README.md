@@ -1,8 +1,7 @@
 # 🌳 Non-Invasive Age Estimation of *Parashorea malaanonan* Using Machine Learning
 
-<p align="right">
-  <img src="Animation Domination Lol GIF by gifnews" width="150"/>
-</p>
+![Tree Animation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlweDB5NHFhc3c1a25vMjE1dmdyczE1eDc1cGVwOHl0dnRwNnVveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YBMbSgcgkcnAc/giphy.gif)
+
 
 This project focuses on the **non-invasive estimation of tree age** for *Parashorea malaanonan* (locally known as **Bagtikan**), a dipterocarp species native to the Philippines.  
 Using **machine learning techniques**, the system predicts tree age based on measurable attributes such as **Diameter at Breast Height (DBH)**, avoiding destructive sampling methods.
