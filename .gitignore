@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+img_data/
+uploads/
+bagtikan_classifier.h5
+analysis_history.json
+*.pyc
