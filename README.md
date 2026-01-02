@@ -2,7 +2,7 @@
 
 This project focuses on the **non-invasive estimation of tree age** for *Parashorea malaanonan* (locally known as **Bagtikan**), a dipterocarp species native to the Philippines.  
 Using **machine learning techniques**, the system predicts tree age based on measurable attributes such as **Diameter at Breast Height (DBH)**, avoiding destructive sampling methods.
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh3Z2NvaDV2Y3czemt3eTQ4cXltNWEwd2U3Y2w4NzgzOTVhdnF6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YBMbSgcgkcnAc/giphy.gif
 ---
 
 ## 📌 Project Objectives
