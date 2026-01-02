@@ -13,4 +13,19 @@ Using **machine learning techniques**, the system predicts tree age based on mea
 - Support sustainable forest management and conservation efforts
 
 ---
-  
+## 🖼️ Screenshots and Visual Results
+
+### 🌳 Study Area / Reference
+![Study Area Map](map.png)
+
+### 🌿 Sample Tree / Reference Image
+![Bagtikan Sample](BAGTIKANSC.png)
+
+### 📈 Model Training and Evaluation
+
+#### Training Plot – Experiment 1
+![Training Plot 1](training_plots_20251213_143246.png)
+
+#### Training Plot – Experiment 2
+![Training Plot 2](training_plots_20251214_211716.png)
+
